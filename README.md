@@ -4,7 +4,7 @@ Room Link => [Tardigrade](https://tryhackme.com/room/tardigrade)
 
 ### Task 1 (Connect to the machine via SSH)
 1. What is the server's OS version?  
->It's visible in the login message.  
+> #### It's visible in the login message.  
 `Ubuntu **.**.* ***`
 
 ### Task 2 (Investigating the giorgio account)  
